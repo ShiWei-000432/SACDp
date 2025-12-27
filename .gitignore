@@ -1,0 +1,12 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.class
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 数据文件 (如果你不想把几百MB的tif上传，取消下面注释)
+# *.tif
+# *.tiff

@@ -11,7 +11,7 @@ SACDp 是一种结合了 **SOFI (超分辨光涨落成像)** 和 **Richardson-Lu
 
 1. **克隆仓库**:
    ```bash
-   git clone https://github.com/你的用户名/SACDp.git
+   git clone https://github.com/ShiWei-000432/SACDp.git
    cd SACDp
    ```
 
